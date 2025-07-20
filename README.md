@@ -22,12 +22,12 @@ This repository contains code examples, and mini-projects as I explore and pract
 
 To ensure smooth and isolated development, it’s best to create a virtual environment before installing packages. Here’s how you can do it:
 
-1. Create virtual environment:
+➣ Create virtual environment:
 
-• python -m venv numpy-env
+ • python -m venv numpy-env
 
-2. Activate it:
+➣ Activate it:
 
-• Windows: numpy-env\Scripts\activate
+ • Windows: numpy-env\Scripts\activate
 
-• MacOS/Linux: source numpy-env/bin/activate
+ • MacOS/Linux: source numpy-env/bin/activate
